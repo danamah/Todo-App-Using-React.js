@@ -2,7 +2,6 @@
 
 A clean, fully functional, and responsive **Todo App** built with React.js, completing the famous Frontend Mentor "Todo app" challenge with extra polish and modern features.
 
-![Todo App Preview](./public/preview.jpg)
 *(Desktop + Mobile – Dark & Light modes)*
 
 ## Features
@@ -28,7 +27,7 @@ A clean, fully functional, and responsive **Todo App** built with React.js, comp
 
 ## Live Demo
 
-[https://your-username.github.io/todo-app-react](https://your-username.github.io/todo-app-react) *(replace with your actual link after deploy)*
+https://todo-app-using-react-js-orpin.vercel.app/
 
 ## How to Run Locally
 
